@@ -1,0 +1,132 @@
+grocery : 
+
+instant breakfast mix
+spice gift pack
+baking flour
+Dark chocolate
+Dry fruits mix
+Coffee beans
+honey jar 
+green tea
+cold pressed oil
+basmati rice
+
+Electronics : 
+
+Noise cancelling headphones
+power bank
+wireless mouse
+meachnaical keyboard
+LED monitor
+laptop
+blue tooth speaker 
+smart watch
+wireless ear buds
+smart phone
+
+Fashion : 
+
+canvas backpack
+sunglasses
+cotton - tshirt
+formal blazer
+royan saree
+leather belt
+sneakers
+Denin jeans
+womens kurthi
+mens casual shirt
+
+Home : 
+
+homme gym bench
+table lamp
+bed sheet set
+storage containers
+water purifier
+vaccum cleaner
+induction cooktop
+coffee maker
+mixer grinder
+air fryer
+non stick cookware set
+
+beauty : 
+
+electric trimmer
+body lotion
+face moisturizer
+shampoo
+perfume
+lipstick
+sunscreen
+face cleaner
+hair dryer
+face serum
+
+sports : 
+
+skipping rope
+protein shaker
+running shoes
+dumbell set
+cyclimg helmet
+resistance band
+threadmill
+yoga mat
+adjustable dumbells
+
+books : 
+
+board game
+sticky notes
+scientific calculator
+sketchbook
+self help book
+desk organizer
+water color
+gel pen pack
+notebook set
+fiction novel
+
+toys : 
+
+art and carft kit
+toy train set
+educational robot
+rc drone
+plush teddy bear
+action figure
+puzzle games
+rc car
+building blocks
+
+automotive : 
+
+side mirros cover
+roof cargo box
+buletooth car adaptor
+car cleanig sett
+LED headlight kit
+portalbe tyre inflator
+car vaccum cleaner
+floor mats
+dash cam
+car seat cover set
+
+health :
+
+air purifier mini
+heated neck pack
+omega 3 capsules
+first aid kit
+body wiehgt scale
+posture corrector
+electric massager
+steam inhaler
+vitamin d supplements
+digital blood pressure monitor
+
+
+
+
