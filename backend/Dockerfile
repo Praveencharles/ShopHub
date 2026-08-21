@@ -18,4 +18,4 @@ COPY . .
 
 EXPOSE 8000
 
-CMD ["sh", "-c", "python manage.py migrate && gunicorn --bind 0.0.0.0:$PORT ecommerce.wsgi:application"]
+CMD ["sh", "-c", "python manage.py migrate && python manage.py seed_products && gunicorn --bind 0.0.0.0:$PORT ecommerce.wsgi:application"]
